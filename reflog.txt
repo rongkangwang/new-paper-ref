@@ -1,0 +1,112 @@
+new paper ref:
+[1] A Joint Port and Statistical Analysis Based Technique to Detect Encrypted VoIP Traffic
+
+idea；detect encrypted VoIP Traffic. hybird solution based on port number and statistical analysis using threshold values of flow statistical parameters. 
+
+@article{munir2016joint,
+  title={A Joint Port and Statistical Analysis Based Technique to Detect Encrypted VoIP Traffic},
+  author={Munir, Suneel and Majeed, Nadeem and Babu, Salaser and Bari, Irfan and Harry, Jackson and Masood, Zahid Ali},
+  journal={International Journal of Computer Science and Information Security},
+  volume={14},
+  number={2},
+  pages={117},
+  year={2016},
+  publisher={LJS Publishing}
+}
+
+[2] An effective empirical approach to VoIP traffic classification
+
+idea: registering of packet flow traces, signature-based analysis, and voice classification. 
+
+@article{saqib2017effective,
+  title={An effective empirical approach to VoIP traffic classification},
+  author={Saqib, Nazar Abbas and SHAKEEL, YAQOOT and Khan, Moazzam Ali and MEHMOOD, HASAN and Zia, Muhammad},
+  journal={Turkish Journal of Electrical Engineering \& Computer Sciences},
+  volume={25},
+  number={2},
+  pages={888--900},
+  year={2017},
+  publisher={The Scientific and Technological Research Council of Turkey}
+}
+
+[3] Improving SIEM capabilities through an enhanced probe for encrypted Skype traffic detection
+
+idea: with the help of SIME(hardware)
+
+@article{di2018improving,
+  title={Improving SIEM capabilities through an enhanced probe for encrypted Skype traffic detection},
+  author={Di Mauro, Mario and Di Sarno, Cesario},
+  journal={Journal of Information Security and Applications},
+  volume={38},
+  pages={85--95},
+  year={2018},
+  publisher={Elsevier}
+}
+
+[4] VoIP-aware network attack detection based on statistics and behavior of SIP traffic
+
+idea: VoIP-aware network attack(DOS and SPAM) detection based on statistics and behavior of SIP traffic
+
+@article{lee2015voip,
+  title={VoIP-aware network attack detection based on statistics and behavior of SIP traffic},
+  author={Lee, Jonghan and Cho, Kyumin and Lee, ChangYong and Kim, Seungjoo},
+  journal={Peer-to-Peer Networking and Applications},
+  volume={8},
+  number={5},
+  pages={872--880},
+  year={2015},
+  publisher={Springer}
+}
+
+[5] Real-Time Network Anomaly Detection System Using Machine Learning
+
+idea: real-time anomaly detection with machine learning. Apache Hadoop, Kafka, Storm
+
+@inproceedings{zhao2015real,
+  title={Real-time network anomaly detection system using machine learning},
+  author={Zhao, Shuai and Chandrashekar, Mayanka and Lee, Yugyung and Medhi, Deep},
+  booktitle={Design of Reliable Communication Networks (DRCN), 2015 11th International Conference on the},
+  pages={267--270},
+  year={2015},
+  organization={IEEE}
+}
+
+[6] The Big Data approach to collecting and analyzing traffic data in large scale networks
+
+idea: a distributed cloud-computing framework based on Big Data approach
+
+@article{laboshin2017big,
+  title={The Big Data approach to collecting and analyzing traffic data in large scale networks},
+  author={Laboshin, LU and Lukashin, AA and Zaborovsky, VS},
+  journal={Procedia Computer Science},
+  volume={103},
+  pages={536--542},
+  year={2017},
+  publisher={Elsevier}
+}
+
+[7] Timely and Continuous Machine-Learning-Based Classification for Interactive IP Traffic
+
+idea: statistics derived from sub-flows.
+
+@article{nguyen2012timely,
+  title={Timely and continuous machine-learning-based classification for interactive IP traffic},
+  author={Nguyen, Thuy TT and Armitage, Grenville and Branch, Philip and Zander, Sebastian},
+  journal={IEEE/ACM Transactions On Networking},
+  volume={20},
+  number={6},
+  pages={1880--1894},
+  year={2012},
+  publisher={IEEE}
+}
+
+[8] VoIP Traffic Modelling using Gaussian Mixture Models, Gaussian Processes and Interactive Particle Algorithms
+
+@inproceedings{simionovici2015voip,
+  title={VoIP traffic modelling using Gaussian mixture models, Gaussian processes and interactive particle algorithms},
+  author={Simionovici, Ana-Maria and Tantar, Alexandru Adrian and Bouvry, Pascal and Tchernykh, Andrei and Cort{\'e}s-Mendoza, Jorge M and Didelot, Loic},
+  booktitle={Globecom Workshops (GC Wkshps), 2015 IEEE},
+  pages={1--6},
+  year={2015},
+  organization={IEEE}
+}
